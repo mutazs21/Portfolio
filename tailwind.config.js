@@ -23,6 +23,15 @@ module.exports = {
       screens: {
         '2xl': '1320px',
       },
+      height: {
+        '128': '34rem',
+        '120': '500px',
+      },
+      width: {
+        '85': '350px',
+        '18': '72px',
+        '17': '70px',
+      }
     },
   },
   plugins: [],
